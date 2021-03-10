@@ -3,7 +3,7 @@
 * [문서 사용 가이드](README.md)
 * [Untitled](untitled-1.md)
 * [문서 작성 가이드](untitled.md)
-* [Github Intergration Test](github update test.md)
+* [Github Intergration Test](githubUpdateTest.md)
 
 ## Class API
 
