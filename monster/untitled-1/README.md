@@ -1,5 +1,5 @@
 ---
-description: 몬스터 패턴 및
+description: 몬스터 패턴 및 적용 예시
 ---
 
 # Monster
