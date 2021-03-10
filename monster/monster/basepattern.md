@@ -8,23 +8,23 @@
 
 ## Chase
 
-적을 쫒는 패턴 걷거나 뛰는 Animation으로 표현 인식범위는 Animator상에서 수치 조절가
+적을 쫒는 패턴 걷거나 뛰는 Animation으로 표현 인식범위는 Animator상에서 수치 조절가능.
 
 ## Attack
 
-몬스터의 기본 공격방식. 해당 공격은 Mesh Renderer의 OnTriggerEnter 이용하여 타격
+몬스터의 기본 공격방식. 해당 공격은 Mesh Renderer의 OnTriggerEnter 이용하여 타격.
 
 ## Skill
 
-몬스터들의 고유한 행동 패턴 하위 문서에서 자세히 설명
+몬스터들의 고유한 행동 패턴 하위 문서에서 자세히 설명.
 
 ## Hit
 
-피격 시 CEnemyPara에서 최대 체력의 몇 퍼센트가 넘는 데미지가 들어올 때 Animation을 재생하게 할 것인지 설정 가능
+피격 시 CEnemyPara에서 최대 체력의 몇 퍼센트가 넘는 데미지가 들어올 때 Animation을 재생하게 할 것인지 설정 가능.
 
 ## Dead
 
-죽는 순간 해당 몬스터의 Layer와 name, tag가 변경이 되어 어떤 충돌 판정도 나지 않게 설정
+죽는 순간 해당 몬스터의 Layer와 name, tag가 변경이 되어 어떤 충돌 판정도 나지 않게 설정.
 
 
 
