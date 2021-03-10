@@ -13,7 +13,7 @@ Unity 세팅 가이드는 Unity에서 설정해야하는 Project Setting, Prefab
 
 ### Class API
 
-
+Github로 코드 추가
 
 ### Unity 세팅 가이드 
 
