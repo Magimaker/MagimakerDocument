@@ -8,7 +8,7 @@
 
 ## Chase
 
-적을 쫒는 패턴 걷거나 뛰는 Animation으로 표현 인식범위는 Animator상에서 수치 조
+적을 쫒는 패턴 걷거나 뛰는 Animation으로 표현 인식범위는 Animator상에서 수치 조절가
 
 ## Attack
 
@@ -20,7 +20,7 @@
 
 ## Hit
 
-피격 시 CEnemyPara에서 최대 체력의 몇 퍼센트가 넘는 데미지가 들어올 때 Animation을 재생하게 할 것인지 설정 가
+피격 시 CEnemyPara에서 최대 체력의 몇 퍼센트가 넘는 데미지가 들어올 때 Animation을 재생하게 할 것인지 설정 가능
 
 ## Dead
 
