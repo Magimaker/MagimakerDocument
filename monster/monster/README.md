@@ -6,18 +6,18 @@ description: 몬스터 패턴 및 적용 예시
 
 ## Monster 기본 행동 패턴
 
-* [Idle](undefined.md#idle)
-* [Chase](undefined.md#chase)
-* [Attack](undefined.md#attack)
-* [Skill](undefined.md#skill)
-* [Hit](undefined.md#hit)
-* [Dead](undefined.md#dead)
+* [Idle](basepattern.md#idle)
+* [Chase](basepattern.md#chase)
+* [Attack](basepattern.md#attack)
+* [Skill](basepattern.md#skill)
+* [Hit](basepattern.md#hit)
+* [Dead](basepattern.md#dead)
 
 해당 상태는 Animator의 Transition의 조건을 만족하는 경우 자동으로 전환됨.
 
 ![&#xBAAC;&#xC2A4;&#xD130; Animator&#xC758; &#xAE30;&#xBCF8; &#xAD6C;&#xC131; \(&#xC608;&#xC2DC;\)](../../.gitbook/assets/.png%20%281%29.png)
 
-Animator는 복잡한 상태를 직관적으로 표현하기 위해 Sub-State machine으로 하위구조로 만듦. Animator.StringToHash를 이용해 접근하기 위해선, hierarchies를 정확하게 기입해야 함.
+Animator 복잡한 상태를 직관적으로 표현하기 위해 Sub-State machine으로 하위구조로 만듦. Animator.StringToHash를 이용해 접근하기 위해선, hierarchies를 정확하게 기입해야 함.
 
 ```text
 _idleState = Animator.StringToHash("Base Layer.Idle");
