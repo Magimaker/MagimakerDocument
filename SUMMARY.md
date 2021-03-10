@@ -3,7 +3,7 @@
 * [문서 사용 가이드](README.md)
 * [Untitled](untitled-1.md)
 * [문서 작성 가이드](untitled.md)
-* [Github Intergration Test](githubUpdateTest.md)
+* [Github Intergration Test](githubupdatetest.md)
 
 ## Class API
 
@@ -36,4 +36,8 @@
 * [Monster](monster/untitled-1/README.md)
   * [기본 패턴 설명](monster/untitled-1/undefined.md)
   * [Boar](monster/untitled-1/untitled.md)
+
+## Network
+
+* [Network](network/network.md)
 
