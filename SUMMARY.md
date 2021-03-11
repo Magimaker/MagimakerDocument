@@ -10,6 +10,8 @@
 * [CPlayerCommand](class-api/untitled/README.md)
   * [Move](class-api/untitled/move.md)
   * [players](class-api/untitled/players.md)
+* [CPortal](class-api/cportal.md)
+* [CBossRoomPortal](class-api/cbossroomportal.md)
 * [CCreateMap](class-api/untitled-1/README.md)
   * [NotifyPortal](class-api/untitled-1/notifyportal.md)
   * [\_explicitRoomList](class-api/untitled-1/_explicitroomlist.md)
