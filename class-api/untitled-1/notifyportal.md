@@ -1,5 +1,5 @@
 ---
-description: 옵저버 패턴의 송신자 역할을 해주는 함수
+description: public void NotifyPortal();
 ---
 
 # NotifyPortal
