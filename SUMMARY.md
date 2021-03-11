@@ -52,4 +52,6 @@
 
 * [Client](client/README.md)
   * [요구사항](client/undefined.md)
+  * [캐릭터 행동 동기화](client/undefined-2.md)
+  * [몬스터 패턴 동기화](client/undefined-1.md)
 
