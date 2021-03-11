@@ -39,5 +39,9 @@
 
 ## Network
 
-* [Network](network/network.md)
+* [Server](network/network.md)
+
+---
+
+* [Client](client.md)
 
