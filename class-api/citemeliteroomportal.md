@@ -34,7 +34,8 @@ see alse : [CPortal](cportal.md), [CBossRoomPortal](cbossroomportal.md), [CNorma
       <td style="text-align:left">
         <p>&#xC0C1;&#xD669;&#xC5D0; &#xB530;&#xB77C; &#xD3EC;&#xD0C8;&#xC744; &#xC5F4;&#xC5C8;&#xB2E4;
           &#xB2EB;&#xC558;&#xB2E4; &#xD560; &#xC218; &#xC788;&#xB294; &#xD568;&#xC218;</p>
-        <p>CGlobal.isClear &#xD50C;&#xB798;&#xADF8;&#xB97C; &#xD65C;&#xC6A9;&#xD55C;&#xB2E4;</p>
+        <p><a href="cglobal/">CGlobal</a>.isClear &#xD50C;&#xB798;&#xADF8;&#xB97C;
+          &#xD65C;&#xC6A9;&#xD55C;&#xB2E4;</p>
       </td>
     </tr>
   </tbody>

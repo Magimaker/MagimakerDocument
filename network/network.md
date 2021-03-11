@@ -16,7 +16,19 @@ description: '윈도우 , C++ 기반 멀티플렉싱 & 멀티스레드 서버.'
   
 
 
-## ㅇ
+## 구현 요약
 
-ㅇㄴ
+구현한 파일들의 기능들에 대해서 간략하게 설명
+
+| 파일 이름 | 설명 |
+| :--- | :--- |
+| network |  |
+| PacketProc |  |
+| MakePacket |  |
+| database |  |
+| Packet |  |
+| RingBuffer |  |
+| check | 메시지를 주고받는 과정에서 필요한 검증을 구현 |
+
+
 
