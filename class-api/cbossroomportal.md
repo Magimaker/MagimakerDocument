@@ -8,7 +8,7 @@ description: CPortal을 상속받음
 
 보스 방에 사용되는 포탈.
 
-see alse : [CPortal](cportal.md), CEventRoomPortal, CItemEliteRoomPortal, CNormalRoomPortal
+see alse : [CPortal](cportal.md), [CEventRoomPortal](ceventroomportal.md), [CItemEliteRoomPortal](citemeliteroomportal.md), [CNormalRoomPortal](cnormalroomportal.md)
 
 ## Properties
 

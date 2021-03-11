@@ -8,6 +8,8 @@ description: 포탈의 기능을 정의하는 클래스.
 
 방을 클리어하고 다음 방으로 넘어가는 포탈의 기능을 정의하는 인터페이스 클래스다. 상속을 받아 OpenNclosePortal\(\)을 구현하고 사용하면 된다.
 
+see also: [CBossRoomPortal](cbossroomportal.md), [CEventRoomPortal](ceventroomportal.md), [CItemEliteRoomPortal](citemeliteroomportal.md), [CNormalRoomPortal](cnormalroomportal.md)
+
 ## Properties
 
 | 변수명  | 설명  |
