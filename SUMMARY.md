@@ -16,7 +16,7 @@
 * [CNormalRoomPortal](class-api/cnormalroomportal.md)
 * [CItemEliteRoomPortal](class-api/citemeliteroomportal.md)
 * [CGlobal](class-api/cglobal/README.md)
-  * [CopyComponent](class-api/cglobal/copycomponent.md)
+  * [ERoomType](class-api/cglobal/eroomtype.md)
 * [CCreateMap](class-api/untitled-1/README.md)
   * [NotifyPortal](class-api/untitled-1/notifyportal.md)
   * [\_explicitRoomList](class-api/untitled-1/_explicitroomlist.md)

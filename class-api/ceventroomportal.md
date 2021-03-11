@@ -4,7 +4,7 @@ description: CPortal을 상속받음
 
 # CEventRoomPortal
 
-## Description
+## 설명 
 
 이벤트 방에 사용되는 포탈.
 

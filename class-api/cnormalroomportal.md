@@ -4,7 +4,7 @@ description: CPortal을 상속받음
 
 # CNormalRoomPortal
 
-## Description
+## 설명 
 
 일반이벤트 방에 사용되는 포탈.
 

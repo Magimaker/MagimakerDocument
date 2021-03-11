@@ -4,7 +4,7 @@ description: CPortal을 상속받음
 
 # CBossRoomPortal
 
-## Description
+## 설명 
 
 보스 방에 사용되는 포탈.
 
