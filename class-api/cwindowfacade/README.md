@@ -18,7 +18,7 @@ Window 사용 중에는 Cursor Lock이 중지되고 기존 컨트롤러 조작�
 
 ## 멤버 함수 
 
-| SetOtherWindowMode | 외부에서 만든 Window 조작 상태로 변경한다  |
+| [SetOtherWindowMode](setotherwindowmode.md) | 외부에서 만든 Window 조작 상태로 변경한다  |
 | :--- | :--- |
 |  |  |
 

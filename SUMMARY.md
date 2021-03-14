@@ -64,6 +64,7 @@
 
 * [Client](client/README.md)
   * [요구사항](client/undefined.md)
+  * [네트워크와 게임 로직 분리](client/undefined-3.md)
   * [캐릭터 행동 동기화](client/undefined-2.md)
   * [몬스터 패턴 동기화](client/undefined-1.md)
 
