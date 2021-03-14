@@ -26,7 +26,7 @@ description: '통신에 필요한 과정을 구현 (소켓, 세션, 패킷 관�
 | ProcRecv | 세션에 들어간 소켓에 읽을 내용이 있는 경우 호출, 세션의 recvQ로 데이터를 옮긴다 |
 | ProcSend | 세션에 들어간 소켓이 보낼 데이터가 있는 경우 호출, 세션의 sendQ로 데이터를 옮긴다 |
 | CompleteRecvPacket | 완성된 패킷을 Payload에 담아 처리한다 |
-| PacketProc |  패킷 헤더를 확인하여 메시지를 분류하고 처리한다. |
+| PacketProc |  패킷 헤더를 확인하여 메시지를 분류하고 처리한다 |
 | SendPacketUnicast | 세션 한 개의 sendQ에 패킷을 넣는다 |
 | SendPacketBroadcast | 모든 세션의 sendQ에 패킷을 넣는다 |
 | SendPacketBroadcastInRoom | 지정된 방에 존재하는 세션의 sendQ에 패킷을 넣는다 |
