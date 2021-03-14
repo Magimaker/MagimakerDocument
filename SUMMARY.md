@@ -1,9 +1,7 @@
 # Table of contents
 
 * [문서 사용 가이드](README.md)
-* [Untitled](untitled-1.md)
 * [문서 작성 가이드](untitled.md)
-* [Github Intergration Test](githubupdatetest.md)
 
 ## Class API
 
