@@ -11,15 +11,13 @@ description: 기존 게임 로직과 네트워크를 어떻게 분리하는지�
 
 
 
-![&#xCE90;&#xB9AD;&#xD130; &#xC774;&#xB3D9;&#xC758; &#xACBD;&#xC6B0; &#xC2F1;&#xAE00; &#xD50C;&#xB808;&#xC774;&#xB97C; &#xAE30;&#xC900;&#xC73C;&#xB85C; &#xB9CC;&#xB4E4;&#xC5B4;&#xB3C4; &#xBA40;&#xD2F0;&#xD50C;&#xB808;&#xC774;&#xC5D0; &#xB9DE;&#xAC8C; &#xB85C;&#xC9C1; &#xCD94;&#xAC00;&#xAC00; &#xC27D;&#xB2E4; ](../../.gitbook/assets/image%20%281%29.png)
+![&#xCE90;&#xB9AD;&#xD130; &#xC774;&#xB3D9;&#xC758; &#xACBD;&#xC6B0; &#xC2F1;&#xAE00; &#xD50C;&#xB808;&#xC774;&#xB97C; &#xAE30;&#xC900;&#xC73C;&#xB85C; &#xB9CC;&#xB4E4;&#xC5B4;&#xB3C4; &#xBA40;&#xD2F0;&#xD50C;&#xB808;&#xC774;&#xC5D0; &#xB9DE;&#xAC8C; &#xB85C;&#xC9C1; &#xCD94;&#xAC00;&#xAC00; &#xC27D;&#xB2E4; ](../../.gitbook/assets/image%20%282%29.png)
+
+![&#xBAAC;&#xC2A4;&#xD130; &#xCC98;&#xCE58;&#xC758; &#xACBD;&#xC6B0; &#xC2F1;&#xAE00; &#xD50C;&#xB808;&#xC774;&#xB97C; &#xAE30;&#xC900;&#xC73C;&#xB85C; &#xB9CC;&#xB4E4;&#xBA74; &#xBA40;&#xD2F0;&#xD50C;&#xB808;&#xC774;&#xC5D0; &#xB9DE;&#xCD94;&#xAE30; &#xD798;&#xB4E4;&#xB2E4; ](../../.gitbook/assets/image.png)
 
 
 
-![&#xBAAC;&#xC2A4;&#xD130; &#xCC98;&#xCE58;&#xC758; &#xACBD;&#xC6B0; &#xC2F1;&#xAE00; &#xD50C;&#xB808;&#xC774;&#xB97C; &#xAE30;&#xC900;&#xC73C;&#xB85C; &#xB9CC;&#xB4E4;&#xBA74; &#xBA40;&#xD2F0;&#xD50C;&#xB808;&#xC774;&#xC5B4; &#xB9DE;&#xCD94;&#xAE30; &#xD798;&#xB4E4;&#xB2E4; ](../../.gitbook/assets/image%20%282%29.png)
-
-
-
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 
 
