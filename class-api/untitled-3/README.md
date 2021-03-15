@@ -18,6 +18,6 @@ description: object pool을 구현해둔 싱글톤 클래스.
 
 | 함수명. | 설명. |
 | :--- | :--- |
-| BulletEnqueue | 오브젝트를 생성, 큐에 삽, Bullet오브젝트의 자식으로 배정, Active상태를 False로 바꾼다. |
-| BulletDequeue | 큐에서 오브젝트를 추출, Active 상태 true로 바꿔 리턴한다. |
+| [BulletEnqueue](bulletenqueue.md) | 오브젝트를 큐에 삽입하고 관리한다. |
+| [BulletDequeue](bulletdequeue.md) | 큐에서 오브젝트 추출. |
 

@@ -29,6 +29,7 @@
   * [ActivateFountain](class-api/cactivatefountain/activatefountain.md)
 * [CBulletQueue](class-api/untitled-3/README.md)
   * [BulletEnqueue](class-api/untitled-3/bulletenqueue.md)
+  * [BulletDequeue](class-api/untitled-3/bulletdequeue.md)
 * [CEnemyFSM](class-api/untitled-2/README.md)
   * [Untitled](class-api/untitled-2/untitled-2.md)
   * [Untitled](class-api/untitled-2/untitled-1.md)
