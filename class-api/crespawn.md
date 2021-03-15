@@ -15,3 +15,5 @@ description: 몬스터 스포닝 담당 클래스
 | IsRespawn | 몬스터들이 재 생성 되는지 체크  |
 | SpawnNumber | 설정한 몬스터 프리팹이 생성되는 수  |
 
+![](../.gitbook/assets/s.png)
+
