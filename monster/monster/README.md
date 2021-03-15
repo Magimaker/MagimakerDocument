@@ -46,7 +46,5 @@ _deadState = Animator.StringToHash("Base Layer.AnySub.Dead");
 1. CRespawn이 포함된 오브젝트에 해당 몬스터 프리팹을 넣어야함.
 2. 몬스터 프리팹에 CEnemyPara의 스탯 값을 저장해야 함.
 
-![](../../.gitbook/assets/.png.png)
-
 
 
