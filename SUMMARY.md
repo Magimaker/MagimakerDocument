@@ -5,6 +5,7 @@
 
 ## Class API
 
+* [CRespawn](class-api/crespawn.md)
 * [CPlayerCommand](class-api/untitled/README.md)
   * [Move](class-api/untitled/move.md)
   * [players](class-api/untitled/players.md)
