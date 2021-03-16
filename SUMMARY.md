@@ -72,5 +72,6 @@
   * [요구사항](network/client/undefined.md)
   * [네트워크와 게임 로직 분리](network/client/undefined-3.md)
   * [캐릭터 행동 동기화](network/client/undefined-2.md)
+  * [효과 정보 동기화](network/client/undefined-5.md)
   * [몬스터 패턴 동기화](network/client/undefined-1.md)
 
