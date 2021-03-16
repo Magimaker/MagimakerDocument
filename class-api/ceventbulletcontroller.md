@@ -12,12 +12,11 @@ description: 이벤트 방 탄막패턴에 사용되는 총알 컨트롤러
 
 | 변수명. | 설명. |
 | :--- | :--- |
-| instance | 싱글톤 클래스를 사용하기 위한 변수. |
+| middleRotationY | y 로테이션 중간값 설정. |
+| maxRotationX | x 로테이션 최대값 설정. |
+| minRotationX | x 로테이션 최소값 설정. |
+| speed | 총알 속도.  |
+| bulletDamage | 총알 데미지. |
 
-## Public Method
 
-| 함수명. | 설명. |
-| :--- | :--- |
-| [BulletEnqueue](untitled-3/bulletenqueue.md) | 오브젝트를 큐에 삽입하고 관리한다. |
-| [BulletDequeue](untitled-3/bulletdequeue.md) | 큐에서 오브젝트 추출. |
 
