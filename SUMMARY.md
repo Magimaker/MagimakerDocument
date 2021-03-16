@@ -33,6 +33,7 @@
   * [BulletDequeue](class-api/untitled-3/bulletdequeue.md)
 * [CEventBulletController](class-api/ceventbulletcontroller.md)
 * [CEventBulletTrigger](class-api/ceventbullettrigger.md)
+* [CEventRoom0\_5Portal](class-api/ceventroom0_5portal.md)
 * [CEnemyFSM](class-api/untitled-2/README.md)
   * [Untitled](class-api/untitled-2/untitled-2.md)
   * [Untitled](class-api/untitled-2/untitled-1.md)
