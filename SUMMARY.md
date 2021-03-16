@@ -71,6 +71,7 @@
   * [check](network/network/check.md)
 * [Client](network/client/README.md)
   * [요구사항](network/client/undefined.md)
+  * [네트워크 구조](network/client/undefined-4.md)
   * [네트워크와 게임 로직 분리](network/client/undefined-3.md)
   * [캐릭터 행동 동기화](network/client/undefined-2.md)
   * [효과 정보 동기화](network/client/undefined-5.md)
