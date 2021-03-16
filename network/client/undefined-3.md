@@ -28,7 +28,9 @@ description: 기존 게임 로직과 네트워크를 어떻게 분리하는지�
 
 ![&#xBAAC;&#xC2A4;&#xD130; &#xCC98;&#xCE58;&#xC758; &#xACBD;&#xC6B0; &#xC2F1;&#xAE00; &#xD50C;&#xB808;&#xC774;&#xB97C; &#xAE30;&#xC900;&#xC73C;&#xB85C; &#xB9CC;&#xB4E4;&#xBA74; &#xBA40;&#xD2F0;&#xD50C;&#xB808;&#xC774;&#xC5D0; &#xB9DE;&#xCD94;&#xAE30; &#xD798;&#xB4E4;&#xB2E4; ](../../.gitbook/assets/image.png)
 
-
+그럼 싱글플레이를 멀티플레이에 호환되게 만들 수 없을까 생각해보면    
+싱글플레이 = 1인\(호스트\) 멀티 게임이라 볼 수 있습니다   
+이 경우 
 
 
 
