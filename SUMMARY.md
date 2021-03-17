@@ -48,7 +48,9 @@
 ## Unity 세팅 가이드
 
 * [아이템 설정 가이드](unity/undefined.md)
-* [사용 효과 세팅 가이드](unity/undefined-1.md)
+* [사용 효과 세팅 가이드](unity/undefined-1/README.md)
+  * [체력 변화 세팅](unity/undefined-1/undefined.md)
+* [Untitled](unity/untitled.md)
 
 ## Change Log
 
