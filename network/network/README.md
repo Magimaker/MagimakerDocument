@@ -22,13 +22,13 @@ description: '윈도우, C++ 기반 멀티플렉싱 & 멀티스레드 서버'
 
 | 파일 이름 | 설명 |
 | :--- | :--- |
-| network | 통신에 필요한 과정을 구현 \(소켓, 세션, 패킷 관련\) |
-| PacketProc | 메시지 프로토콜 종류에 따라 필요한 동작을 구현 |
-| MakePacket | 메시지 프로토콜 종류에 따라 필요한 메시지의 내용을 구현 |
-| database | DB\(MYSQL\)를 사용할 때 필요한 기능들을 구현 |
-| Packet | 패킷을 처리하기 위한 동작을 구현 |
-| RingBuffer | 패킷을 담는 버퍼를 원형 구조로 구현 |
-| check | 메시지를 주고받는 과정에서 필요한 검증을 구현 |
+| [network](https://app.gitbook.com/@magimaker/s/magimaker/network/network/network-1) | 통신에 필요한 과정을 구현 \(소켓, 세션, 패킷 관련\) |
+| [PacketProc](https://app.gitbook.com/@magimaker/s/magimaker/~/drafts/-MVyv9r9jUtwNju6UsLG/network/network/packetproc) | 메시지 프로토콜 종류에 따라 필요한 동작을 구현 |
+| [MakePacket](https://app.gitbook.com/@magimaker/s/magimaker/~/drafts/-MVyv9r9jUtwNju6UsLG/network/network/makepacket) | 메시지 프로토콜 종류에 따라 필요한 메시지의 내용을 구현 |
+| [database](https://app.gitbook.com/@magimaker/s/magimaker/~/drafts/-MVyv9r9jUtwNju6UsLG/network/network/database) | DB\(MYSQL\)를 사용할 때 필요한 기능들을 구현 |
+| [Packet](https://app.gitbook.com/@magimaker/s/magimaker/~/drafts/-MVyv9r9jUtwNju6UsLG/network/network/packet) | 패킷을 처리하기 위한 동작을 구현 |
+| [RingBuffer](https://app.gitbook.com/@magimaker/s/magimaker/~/drafts/-MVyv9r9jUtwNju6UsLG/network/network/ringbuffer) | 패킷을 담는 버퍼를 원형 구조로 구현 |
+| [check](https://app.gitbook.com/@magimaker/s/magimaker/~/drafts/-MVyv9r9jUtwNju6UsLG/network/network/check) | 메시지를 주고받는 과정에서 필요한 검증을 구현 |
 
 
 
