@@ -2,13 +2,13 @@
 description: CPortal을 상속받음
 ---
 
-# CEventRoomPortal
+# CItemEliteRoomPortal
 
 ## 설명 
 
-이벤트 방에 사용되는 포탈.
+일반이벤트 방에 사용되는 포탈.
 
-see alse : [CPortal](cportal.md), [CBossRoomPortal](cbossroomportal.md), [CItemEliteRoomPortal](citemeliteroomportal.md), [CNormalRoomPortal](cnormalroomportal.md)
+see alse : [CPortal](cportal.md), [CBossRoomPortal](cbossroomportal.md), [CNormalRoomPortal](cnormalroomportal.md), [CEventRoomPortal](ceventroomportal.md)
 
 ## Inherited Members
 
@@ -34,7 +34,7 @@ see alse : [CPortal](cportal.md), [CBossRoomPortal](cbossroomportal.md), [CItemE
       <td style="text-align:left">
         <p>&#xC0C1;&#xD669;&#xC5D0; &#xB530;&#xB77C; &#xD3EC;&#xD0C8;&#xC744; &#xC5F4;&#xC5C8;&#xB2E4;
           &#xB2EB;&#xC558;&#xB2E4; &#xD560; &#xC218; &#xC788;&#xB294; &#xD568;&#xC218;</p>
-        <p><a href="cglobal/">CGlobal</a>.isEvent &#xD50C;&#xB798;&#xADF8;&#xB97C;
+        <p><a href="../class-api/cglobal/">CGlobal</a>.isClear &#xD50C;&#xB798;&#xADF8;&#xB97C;
           &#xD65C;&#xC6A9;&#xD55C;&#xB2E4;</p>
       </td>
     </tr>
