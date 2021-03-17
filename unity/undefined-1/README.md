@@ -84,9 +84,28 @@ Max Stack : 1 이상
 
 ## 원하는 클래스에 사용 효과 추가하기  
 
-ex\) 이벤트 수행 시 기존에 만들어둔 사용효과\(CUseEffect\)를 이용해서 효과를 주는 경우 
+ex\) 함정에 캐릭터가 피해를 입는 경우 - 함정에 사용 효과를 적용시키지 않은 상태라 가정 
 
+사용 효과를 원하는 대상에게 주기 위해선 2가지 정보가 필요합니다   
+1. 대상\(CharacterPara\) 정보   
+2. 사용 효과 정보 - 멤버 변수\(UseEffectList\) 및 컴포넌트로 만들어 둔 CUseEffect  
+예를 들어, 스킬 효과 적용은 다음과 같이 구현되어 있습니다 
 
+```csharp
+// 클래스 내부
+    [Tooltip("충돌 시 적용될 효과")]
+    public List<CUseEffectHandle> useEffects;
+    
+    // 충돌 처리 함수는 구현되어 GetUseEffect()를 호출한다고 가정
+    protected void GetUseEffect(Collider other)
+    {
+        var cPara = other.GetComponent<CharacterPara>();
+        if (cPara != null)
+        {
+            cPara.TakeUseEffectHandleList(useEffects);
+        }
+    }
+```
 
 
 
