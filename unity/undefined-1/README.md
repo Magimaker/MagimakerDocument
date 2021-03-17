@@ -66,17 +66,20 @@ Increase Stack : 1 이상
 Max Stack : 1 이상 
 {% endhint %}
 
-  
+스택에 따른 효과인 **Stack Accumulate Effect**도 설정 가능합니다 
 
+* 스택 최소 요구치  ex\) 저주 6스택일 때 효과가 발동한다면 Threshold = 6 
+* 스택 추가 요구치  ex\) 저주 6스택, 9스택, 12스택...에 효과가 발동한다면 Threshold Add = 3 
+* 스택 누적 시 발동하는 효과  \(기존 UseEffect처럼 Component로 설정하는 방식\) 
 
 #### Conditional Effect
 
 특정 효과가 걸려있을 때 발동하는 효과\(ex\) 첨습이 걸려있을 때 추가효과 발동\)
 
-* Conditional Effect Id : 발동 조건\(효과\) id  \(ex\) 첨습이 걸려있을 때 추가효과 발동이면 Conditional Effect Id = 첨습 효과 id\)
-* Is Relation Stack : 발동 조건\(효과\) 스택에 따라 강화되는지
-* Stack Bonus Rate : 스택에 따른 강화비율\(%가 기준, 현재는 즉발 효과만 됨\)
-* Effect : 발동 조건\(효과\)을 충족했을 때 발동하는 효과
+* Conditional Effect Id : 발동 조건\(효과\) id  \(ex\) 첨습이 걸려있을 때 추가효과 발동이면 Conditional Effect Id = 첨습 효과 id\) 
+* Is Relation Stack : 발동 조건\(효과\) 스택에 따라 강화되는지 
+* Stack Bonus Rate : 스택에 따른 강화비율\(%가 기준, 현재는 즉발 효과만 됨\) 
+* Effect : 발동 조건\(효과\)을 충족했을 때 발동하는 효과  \(기존 UseEffect처럼 Component로 설정하는 방식\) 
 
 ### 지정된 효과\(첨습, 저주 등\) 추가하기 
 
