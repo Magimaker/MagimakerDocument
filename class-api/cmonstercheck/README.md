@@ -19,8 +19,8 @@ description: 맵에 남아있는 몬스터 체크용 싱글톤 클래스.
 
 | 함수명. | 설명. |
 | :--- | :--- |
-| ForceDeadMonster | 맵에 있는 몬스터들을 확인하고 전부 강제로 죽인다. |
-| CheckMonsterCountZero | 몬스터가 남아있나 확인하고 없으면 이벤트 종료 |
+| [ForceDeadMonster](forcedeadmonster.md) | 맵에 있는 몬스터들을 확인하고 전부 강제로 죽인다. |
+| [CheckMonsterCountZero](checkmonstercountzero.md) | 몬스터가 남아있나 확인하고 없으면 상황전파 종료 |
 
 
 
