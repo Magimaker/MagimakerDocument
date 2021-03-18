@@ -69,6 +69,7 @@
   * [UseNPC](room/ceventroomnpcclick/usenpc.md)
   * [CancelPopUp](room/ceventroomnpcclick/cancelpopup.md)
 * [CEventRoomPopUpController](room/ceventroompopupcontroller.md)
+* [CEventShooterController](room/ceventshootercontroller.md)
 * [CActivateFountain](room/cactivatefountain/README.md)
   * [ActivateFountain](room/cactivatefountain/activatefountain.md)
 
