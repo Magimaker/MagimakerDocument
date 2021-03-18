@@ -20,6 +20,6 @@ description: 이벤트 방에 있는 Npc 팝업 관리자.
 
 | 함수명. | 설명. |
 | :--- | :--- |
-| UseNPC | 상호작용 키 눌렀을 때의 작동. |
-| CancelPopUp | 팝업을 취소하는 함수. |
+| [UseNPC](usenpc.md) | 상호작용 키 눌렀을 때의 작동. |
+| [CancelPopUp](cancelpopup.md) | 팝업을 취소하는 함수. |
 
