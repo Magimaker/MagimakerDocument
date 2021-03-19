@@ -26,8 +26,6 @@ description: 메시지 프로토콜 종류에 따라 필요한 동작을 구현
 | MembershipAuth | 회원가입 요청이 들어온 경우의 결과에 대한 패킷을 unicast 방식으로 큐에 담는다. |
 | GotoLobby | 세션 상태를 LOBBY로 전환하고 전환 메시지를 보낸다 |
 
-
-
 ## Lobby Functions
 
 | 함수명 | 설명 |

@@ -40,7 +40,7 @@ PacketProc 파일에서 메시지를 처리할 때 담을 메시지의 내용을
 | MakePacketRoomExitNotice | 퇴장한 유저의 슬롯을 패킷에 추가 |
 | MakePacketRoomBroadcast | 방 입장에 성공한 유저의 정보를 패킷에 추가 |
 
-## Game Functions
+## Game Message Functions
 
 | 함수명 | 설명 |
 | :--- | :--- |
