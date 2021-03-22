@@ -9,7 +9,7 @@ description: '맵, 아이템 동기화 등'
 Host - Peer 방식을 사용  
 Host가 결정한 내용을 Peer가 따라하는 방식
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 ## 방 동기화 
 
@@ -21,6 +21,8 @@ Host가 결정한 내용을 Peer가 따라하는 방식
 4. Host, Peer가 서버로부터 온 내용을 수행 
 
 ### 방 이동 동기화 
+
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 0. 방 생성 동기화로 방 생성 목록?은 동기화되었다고 가정  
 1. 각 클라이언트가 이동 수락/거절 신호를 보냄  
