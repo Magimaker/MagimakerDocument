@@ -9,5 +9,6 @@
 Class API는 public 멤버 변수\(프로퍼티 포함\) 혹은 함수에 대한 설명, 사용법을 담은 문서입니다  
 Unity 세팅 가이드는 Unity에서 설정해야하는 Project Setting, Prefab 등의 설정 방법을 적은 문서입니다Change log는 요구사항 혹은 문제점에 따른 클래스 개선 과정을 적는 문서입니다
 
+기존 문서 수정 되는지 확인
 
 
