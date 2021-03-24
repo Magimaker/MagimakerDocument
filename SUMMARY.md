@@ -2,6 +2,7 @@
 
 * [문서 사용 가이드](README.md)
 * [문서 작성 가이드](untitled.md)
+* [깃허브로 업데이트는 적용되나?](github-update-test2.md)
 
 ## Class API
 
